@@ -1,0 +1,11 @@
+.idea
+venv
+Country.csv
+database.sqlite
+League.csv
+Match.csv
+database_read.py
+Player.csv
+sqlite_sequence.csv
+Team.csv
+Team_Attributes.csv
